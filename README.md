@@ -1,6 +1,6 @@
 # Covid-19 Dashboard
 
-I've made this project using python and the framework Tkinker for the GUI.
+I've made this project using python and the framework Tkinter for the GUI.
 
 It shows covid-19 data based on API: https://covid19.mathdro.id/api, about the number of confirmed cases, recovered and deaths.
 
