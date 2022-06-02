@@ -1,4 +1,4 @@
-# Covid-19 Dashboard
+# Covid-19 Dashboard 📊
 
 I've made this project using python and the framework Tkinter for the GUI.
 
